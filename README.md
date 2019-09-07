@@ -7,3 +7,7 @@ https://quickgrid.itch.io/ninja-sample
 Movement done with arrow keys. O and P keys are used for some fight animations which are not implemented and finally mouse click will shoot cats.
 
 ![Image](itch/screenshot.png)
+
+
+### Sample Video Link:
+https://www.youtube.com/watch?v=gB3Vlpi-jkc
